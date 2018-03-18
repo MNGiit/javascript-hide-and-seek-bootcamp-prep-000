@@ -18,6 +18,8 @@ function increaseRankBy(n){
   var theRanks;
   theRanks = document.querySelector(`.ranked-list`);
   
+  return (theRanks+n);
+  
 }
 
 function deepestChild(){
