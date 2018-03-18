@@ -23,7 +23,7 @@ function increaseRankBy(n){
     
   }
   
-  return (theRanks+n);
+  return theRanks;
   
 }
 
