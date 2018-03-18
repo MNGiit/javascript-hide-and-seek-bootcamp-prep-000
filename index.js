@@ -15,10 +15,13 @@ function nestedTarget(){
 function increaseRankBy(n){
   // My code will go here
   
-  return document.querySelector('#grand-node div div div div');
+  
   
 }
 
 function deepestChild(){
   // My code will go here
+  
+  return document.querySelector('#grand-node div div div div');
+  
 }
