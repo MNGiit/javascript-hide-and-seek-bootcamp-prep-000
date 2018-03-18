@@ -15,8 +15,7 @@ function nestedTarget(){
 function increaseRankBy(n){
   // My code will go here
   
-  var theRanks;
-  theRanks = document.querySelector(`.ranked-list`);
+  var theRanks = document.querySelector(`.ranked-list`);
   
   return (theRanks+n);
   
