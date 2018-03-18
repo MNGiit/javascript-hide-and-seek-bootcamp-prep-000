@@ -16,7 +16,7 @@ function increaseRankBy(n){
   // My code will go here
   
   var theRanks;
-  theRanks = document.querySelector()
+  theRanks = document.querySelector(`.ranked-list`);
   
 }
 
