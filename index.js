@@ -8,7 +8,7 @@ function getFirstSelector(selector) {
 function nestedTarget(){
   // My code will go here
   
-  var theNest = document.getElementById().querySelectorAll();
+  var theNest = document.getElementById(`#nested`).querySelectorAll();
   
   for (var i = 0; i < theNest.length; i++){
     
