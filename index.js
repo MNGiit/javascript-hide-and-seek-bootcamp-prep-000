@@ -19,7 +19,7 @@ function increaseRankBy(n){
   
   for (var i = 0; i < theRanks.length; i++){
     
-    theRanks[i] = theRanks[i] + n;
+    theRanks[i] = parseInt(theRanks[i]) + n;
     
   }
   
